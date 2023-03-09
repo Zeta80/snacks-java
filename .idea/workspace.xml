@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a1a085-dcef-41a5-ac75-43cac2f5e301" name="Changes" comment="3 snacks on java">
-      <change afterPath="$PROJECT_DIR$/src/snack4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="02a1a085-dcef-41a5-ac75-43cac2f5e301" name="Changes" comment="4th snack on java">
+      <change beforePath="$PROJECT_DIR$/src/snack4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/snack4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fb5fe3a3-ca79-4b43-962e-3336885e63c6" />
+        <option name="url" value="https://github.com/Zeta80/snacks-java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,11 +68,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678359654768</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4th snack on java">
+      <created>1678363216330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678363216330</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3 snacks on java" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 snacks on java" />
+    <MESSAGE value="4th snack on java" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th snack on java" />
   </component>
 </project>

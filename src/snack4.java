@@ -17,7 +17,6 @@ public class snack4 {
                 break;
             }
         }
-
         if (invitato) {
             System.out.println("WELLA! benvenuto alla festa di Mirko, prendi da bere e divertiti amicone o amicona mia (se sei cristina)");
         } else {
