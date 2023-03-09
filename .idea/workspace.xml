@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a1a085-dcef-41a5-ac75-43cac2f5e301" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snacks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snack3.java" afterDir="false" />
+    <list default="true" id="02a1a085-dcef-41a5-ac75-43cac2f5e301" name="Changes" comment="3 snacks on java">
+      <change afterPath="$PROJECT_DIR$/src/snack4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678359455800</updated>
     </task>
+    <task id="LOCAL-00001" summary="3 snacks on java">
+      <created>1678359654768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678359654768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3 snacks on java" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 snacks on java" />
   </component>
 </project>
